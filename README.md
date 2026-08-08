@@ -12,7 +12,7 @@
 
 ### Contact Me:
 - 📧 [wfan0971@uni.sydney.edu.au](mailto:wfan0971@uni.sydney.edu.au)
-- 🌐 [LinkedIn]((https://www.linkedin.com/in/wenyufan/))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/wenyufan/)
 
 ---
 
