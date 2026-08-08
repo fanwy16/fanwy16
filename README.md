@@ -10,10 +10,6 @@
 
 🔷 [Behance](https://www.behance.net/wenyufan) · 🎨 [Figma](https://www.figma.com/@wenyufan) · 📕 [Rednote](https://www.xiaohongshu.com/user/profile/6432ad8c000000000d01b1e5)
 
-### Contact Me:
-- 📧 [wfan0971@uni.sydney.edu.au](mailto:wfan0971@uni.sydney.edu.au)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/wenyufan/)
-
 ---
 
 ### My GitHub Issues & Contributions
