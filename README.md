@@ -6,8 +6,9 @@
 
 - 🎓 Computer Science student @ University of Sydney
 - 💭 Interested in how AI changes the way we write, think, and create.
+- 🔵 See more -->  [Wendy's website](https://wendyfan-website.vercel.app/)
 
-🔵 [Portfolio](https://wendyfan-website.vercel.app/) · 🔷 [Behance](https://www.behance.net/wenyufan) · 🎨 [Figma](https://www.figma.com/@wenyufan) · 📕 [Rednote](https://www.xiaohongshu.com/user/profile/6432ad8c000000000d01b1e5)
+🔷 [Behance](https://www.behance.net/wenyufan) · 🎨 [Figma](https://www.figma.com/@wenyufan) · 📕 [Rednote](https://www.xiaohongshu.com/user/profile/6432ad8c000000000d01b1e5)
 
 ### Contact Me:
 - 📧 [wfan0971@uni.sydney.edu.au](mailto:wfan0971@uni.sydney.edu.au)
