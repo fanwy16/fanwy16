@@ -4,9 +4,16 @@
 
 - 🎓 Computer Science student @ University of Sydney
 - 💭 Interested in HCI x NLP.
-- 🔵 See more -->  [Wendy's website](https://wendyfan-website.vercel.app/)
+- 🔵 See more -->  [Wendy's website](https://wenyufan.vercel.app/)
 
 🪻 [Behance](https://www.behance.net/wenyufan) · 🎨 [Figma](https://www.figma.com/@fanwy16) · 📕 [Rednote](https://www.xiaohongshu.com/user/profile/6432ad8c000000000d01b1e5)
+
+### 🎈 Playground
+
+Small skills made for fun ([all of them](https://github.com/fanwy16?tab=repositories&q=topic%3Aplayground)):
+
+- [gesture-intro-video](https://github.com/fanwy16/gesture-intro-video): record a self-introduction video with hand gestures and an app's interface style
+- [film-pilgrimage](https://github.com/fanwy16/film-pilgrimage): turn film-location trips into vertical comparison videos
 
 ### My GitHub Issues & Contributions
 
