@@ -8,9 +8,13 @@
 
 🪻 [Behance](https://www.behance.net/wenyufan) · 🎨 [Figma](https://www.figma.com/@fanwy16) · 📕 [Rednote](https://www.xiaohongshu.com/user/profile/6432ad8c000000000d01b1e5)
 
+### Browse
+
+🧰 [Work](https://github.com/fanwy16?tab=repositories&q=topic%3Awork) ([tech](https://github.com/fanwy16?tab=repositories&q=topic%3Atech) · [design](https://github.com/fanwy16?tab=repositories&q=topic%3Adesign)) · 🎈 [Playground](https://github.com/fanwy16?tab=repositories&q=topic%3Aplayground) · 🤝 [Team projects](https://github.com/fanwy16?tab=repositories&q=topic%3Ateam-project)
+
 ### 🎈 Playground
 
-Small skills made for fun ([all of them](https://github.com/fanwy16?tab=repositories&q=topic%3Aplayground)):
+Agent skills made for fun:
 
 - [gesture-intro-video](https://github.com/fanwy16/gesture-intro-video): record a self-introduction video with hand gestures and an app's interface style
 - [film-pilgrimage](https://github.com/fanwy16/film-pilgrimage): turn film-location trips into vertical comparison videos
