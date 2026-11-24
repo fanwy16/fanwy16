@@ -10,7 +10,7 @@
 
 ### Browse
 
-🧰 [Work](https://github.com/fanwy16?tab=repositories&q=topic%3Awork) ([tech](https://github.com/fanwy16?tab=repositories&q=topic%3Atech) · [design](https://github.com/fanwy16?tab=repositories&q=topic%3Adesign)) · 🎈 [Playground](https://github.com/fanwy16?tab=repositories&q=topic%3Aplayground) · 🤝 [Team projects](https://github.com/fanwy16?tab=repositories&q=topic%3Ateam-project)
+🧰 [Work](https://github.com/fanwy16?tab=repositories&q=topic%3Awork) ([tech](https://github.com/fanwy16?tab=repositories&q=topic%3Atech) · [design](https://github.com/fanwy16?tab=repositories&q=topic%3Adesign) · [team](https://github.com/fanwy16?tab=repositories&q=topic%3Ateam-project)) · 🎈 [Playground](https://github.com/fanwy16?tab=repositories&q=topic%3Aplayground)
 
 ### My GitHub Issues & Contributions
 
