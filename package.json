@@ -1,5 +1,5 @@
 {
-  "name": "wendyfff0616-profile",
+  "name": "fanwy16-profile",
   "version": "1.0.0",
   "description": "Wendy Fan's GitHub Profile",
   "main": "scripts/update-issues.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wendyfff0616/Wendyfff0616.git"
+    "url": "git+https://github.com/fanwy16/fanwy16.git"
   },
   "author": "Wendy Fan <wfan0971@uni.sydney.edu.au>",
   "license": "MIT",

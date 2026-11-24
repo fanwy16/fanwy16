@@ -4,7 +4,7 @@ const path = require('path');
 
 // 配置
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
-const GITHUB_USERNAME = process.env.GITHUB_USERNAME || 'Wendyfff0616';
+const GITHUB_USERNAME = process.env.GITHUB_USERNAME || 'fanwy16';
 const README_PATH = path.join(__dirname, '..', 'README.md');
 const MAX_ISSUES_PER_CATEGORY = 5; // 每个分类显示最多 5 个 Issues
 

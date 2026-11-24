@@ -20,8 +20,8 @@
 ✅ Direct search links  
 
 ## Direct Links
-- All Issues: https://github.com/search?q=author:Wendyfff0616+is:issue
-- Open Issues: https://github.com/search?q=author:Wendyfff0616+is:open+is:issue
+- All Issues: https://github.com/search?q=author:fanwy16+is:issue
+- Open Issues: https://github.com/search?q=author:fanwy16+is:open+is:issue
 
 ## MIT License Explanation
 ✅ MIT License is perfect for personal profile repositories  

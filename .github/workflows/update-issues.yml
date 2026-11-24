@@ -33,7 +33,7 @@ jobs:
     - name: Update Issues List
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        GITHUB_USERNAME: Wendyfff0616
+        GITHUB_USERNAME: fanwy16
       run: node scripts/update-issues.js
       
     - name: Commit and push changes
