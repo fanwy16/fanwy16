@@ -12,13 +12,6 @@
 
 🧰 [Work](https://github.com/fanwy16?tab=repositories&q=topic%3Awork) ([tech](https://github.com/fanwy16?tab=repositories&q=topic%3Atech) · [design](https://github.com/fanwy16?tab=repositories&q=topic%3Adesign)) · 🎈 [Playground](https://github.com/fanwy16?tab=repositories&q=topic%3Aplayground) · 🤝 [Team projects](https://github.com/fanwy16?tab=repositories&q=topic%3Ateam-project)
 
-### 🎈 Playground
-
-Agent skills made for fun:
-
-- [gesture-intro-video](https://github.com/fanwy16/gesture-intro-video): record a self-introduction video with hand gestures and an app's interface style
-- [film-pilgrimage](https://github.com/fanwy16/film-pilgrimage): turn film-location trips into vertical comparison videos
-
 ### My GitHub Issues & Contributions
 
 [![Issues Created](https://img.shields.io/badge/dynamic/json?color=blue&label=Created&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Afanwy16%2Bis%3Aissue)](https://github.com/search?q=author%3Afanwy16+is%3Aissue)
